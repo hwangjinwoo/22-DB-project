@@ -47,4 +47,5 @@
 
 개체와 속성 찾기
 ![2](https://user-images.githubusercontent.com/81346117/168704046-9dc868ad-a5bb-45a4-9cb5-a05c6668a7db.PNG)
+
 개체 / 속성
