@@ -52,3 +52,6 @@
 # 릴레이션
 
 ![1](https://user-images.githubusercontent.com/81346117/169840297-13a8a1e2-ab50-4b84-b06d-a416bcf4cfe1.PNG)
+
+
+# 수정할 부분들이 많이 있고, 하다보니 추가할 부분도 생기는 것 같습니다. 계속 확인하며 수정하겠습니다.
