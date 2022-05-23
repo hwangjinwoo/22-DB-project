@@ -49,3 +49,7 @@
 ![2](https://user-images.githubusercontent.com/81346117/168704046-9dc868ad-a5bb-45a4-9cb5-a05c6668a7db.PNG)
 
 개체 / 속성
+
+
+
+![1](https://user-images.githubusercontent.com/81346117/169840297-13a8a1e2-ab50-4b84-b06d-a416bcf4cfe1.PNG)
