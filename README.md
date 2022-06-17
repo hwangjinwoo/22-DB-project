@@ -52,6 +52,5 @@
 
 # 릴레이션
 
-![1](https://user-images.githubusercontent.com/81346117/169840297-13a8a1e2-ab50-4b84-b06d-a416bcf4cfe1.PNG)
-
+![12](https://user-images.githubusercontent.com/81346117/174253047-bc6b29ca-1615-4e8f-b352-c8c7c012af70.PNG)
 
