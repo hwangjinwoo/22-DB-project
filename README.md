@@ -28,8 +28,8 @@
 - 포인트 적립
 
 # TABLE
-![21](https://user-images.githubusercontent.com/81346117/168551536-0972b96b-df7e-4198-a013-a0bbd62d781f.PNG)
-https://app.diagrams.net/
+![1](https://user-images.githubusercontent.com/81346117/174251896-98fe01fc-1dd3-4987-9192-7e802ae031c4.PNG)
+
 
 
 # 요구사항 명세서
