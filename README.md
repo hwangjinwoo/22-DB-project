@@ -47,7 +47,8 @@
 
 
 개체와 속성 찾기
-![2](https://user-images.githubusercontent.com/81346117/168704046-9dc868ad-a5bb-45a4-9cb5-a05c6668a7db.PNG)
+![123](https://user-images.githubusercontent.com/81346117/174253826-12092571-9069-455c-b8ed-f6d74b57c631.PNG)
+
 
 
 # 릴레이션
