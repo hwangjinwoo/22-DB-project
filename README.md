@@ -29,7 +29,7 @@
 
 # TABLE
 ![21](https://user-images.githubusercontent.com/81346117/168551536-0972b96b-df7e-4198-a013-a0bbd62d781f.PNG)
-d.draw.io
+https://app.diagrams.net/
 
 
 # 요구사항 명세서
