@@ -4,7 +4,6 @@ create table 회원 (
 	비밀번호 varchar(20) not null,
 	지역 varchar(20) not null,
 	등급 varchar(10),
-	적립금 int(10),
 	primary key(아이디)
 );
 
