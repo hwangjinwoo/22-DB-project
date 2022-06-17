@@ -47,6 +47,8 @@
 
 
 개체와 속성 찾기
+
+
 ![123](https://user-images.githubusercontent.com/81346117/174253826-12092571-9069-455c-b8ed-f6d74b57c631.PNG)
 
 
